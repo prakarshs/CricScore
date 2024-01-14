@@ -1,4 +1,4 @@
-# CodeIt
+# CricScore
 Welcome to CricScore, the ultimate destination for real-time cricket scores powered by Spring Boot and JSoup integration for seamless data scraping from Cricbuzz. Experience the thrill of cricket with our user-friendly platform, providing up-to-the-minute match updates, player statistics, and team insights. Whether you're a casual fan or a dedicated enthusiast, CricScore ensures you stay connected to the pulse of the game. Welcome to the future of cricket scoring, where every boundary and wicket is just a click away!
 
 ### Built With
